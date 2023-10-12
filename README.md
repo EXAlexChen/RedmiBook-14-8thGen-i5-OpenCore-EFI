@@ -3,7 +3,7 @@
 **基于这位[EFI](https://github.com/Zachery-Liu/RedmiBook-8thGen-OpenCore-EFI)修改而成**
 
 OC版本更新至0.9.5
-适配最新的Ventura13.6
+适配Ventura13.6
 
 USB已重新定制，Wifi与蓝牙能正常使用
 
