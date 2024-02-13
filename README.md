@@ -18,4 +18,4 @@ USB已重新定制，Wifi与蓝牙能正常使用，合盖休眠后Wifi蓝牙可
 
 原版本的触控板不支持手势，我更换成了以前Big Sur时支持手势的驱动，但并没有什么卵用，依旧不支持手势
 
-![截屏2023-10-12 10 37 36](https://github.com/EXAlexChen/RedmiBook-14-8thGen-OpenCore-EFI/assets/30611882/fa48d899-2548-4ee8-a00a-8e69a08c13bc)
+![截屏2024-02-13 13 34 42](https://github.com/EXAlexChen/RedmiBook-14-8thGen-i5-OpenCore-EFI/assets/30611882/871d6ee9-1f02-4ac6-af26-bbcd7cd4b6a5)
