@@ -18,4 +18,5 @@ Apple Music客户端可以选非无损音质使用，可正常外放与插耳机
 
 原版本的触控板不支持手势，我更换成了以前Big Sur时支持手势的驱动，但并没有什么卵用，依旧不支持手势，坏耶
 
-![截屏2024-03-27 13 59 36](https://github.com/EXAlexChen/RedmiBook-14-8thGen-i5-OpenCore-EFI/assets/30611882/fc563a21-f35f-4d77-bf93-ebbaca5ece5b)
+![截屏2024-03-27 13 59 36](https://github.com/EXAlexChen/RedmiBook-14-8thGen-i5-OpenCore-EFI/assets/30611882/b37e9e81-3ea2-470b-8adf-706421a65368)
+
