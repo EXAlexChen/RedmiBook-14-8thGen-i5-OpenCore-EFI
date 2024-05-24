@@ -2,7 +2,7 @@
 ### 适用于RedmiBook 14 i5-8265U的版本
 **基于这位[EFI](https://github.com/Zachery-Liu/RedmiBook-8thGen-OpenCore-EFI)修改而成**
 
-OC版本更新至0.9.9
+OC版本更新至1.0.0
 
 Kext也已更新
 
